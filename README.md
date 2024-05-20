@@ -1,3 +1,3 @@
-# PAOO_Joc AC_TUIASI
+# Un joc 2D facut in java...
 
-Acesta este repo-ul pentru jocul la PAOO!
+Acesta este repo-ul pentru jocul in java!
